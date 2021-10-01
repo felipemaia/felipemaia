@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @felipemaia
+- 👀 I’m interested in problem solving, learning new technologies, and cooking (yeah)!
+- 🌱 I’m currently learning the cloud enviroment.
+- 📫 How to reach me ... @: maia.felipec@gmail.com
